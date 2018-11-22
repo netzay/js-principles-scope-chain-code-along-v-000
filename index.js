@@ -15,5 +15,5 @@ function overWriteBestCustomer(){
 
 var leastFavoriteCustomer;
 function changeLeastFavoriteCustomer(){
-  leastFavoriteCustomer = 'changed';
+  var leastFavoriteCustomer = 'changed';
 }
